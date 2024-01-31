@@ -5,7 +5,7 @@
  * the leaves in a binary tree
  * @tree: a pointer to the root node of the tree to count.
  *
- * Return: numbe rof leaves or 0 on error.
+ * Return: number of leaves or 0 on error.
  */
 
 size_t binary_tree_leaves(const binary_tree_t *tree)
